@@ -3,7 +3,6 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
-#include <alloca.h>
 #include <fstream>
 
 #define FRAME_SIZE 256
